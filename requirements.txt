@@ -9,3 +9,4 @@ faker
 python-dotenv
 streamlit>=1.62,<2
 sqlalchemy>=2.0,<3
+pandas>=3.0,<4
